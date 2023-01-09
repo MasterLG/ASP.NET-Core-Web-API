@@ -1,0 +1,12 @@
+C:\NETProjects\CMSWebAPI\Cms.Data.Repository\obj\Debug\net6.0\Cms.Data.Repository.csproj.AssemblyReference.cache
+C:\NETProjects\CMSWebAPI\Cms.Data.Repository\obj\Debug\net6.0\Cms.Data.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\NETProjects\CMSWebAPI\Cms.Data.Repository\obj\Debug\net6.0\Cms.Data.Repository.AssemblyInfoInputs.cache
+C:\NETProjects\CMSWebAPI\Cms.Data.Repository\obj\Debug\net6.0\Cms.Data.Repository.AssemblyInfo.cs
+C:\NETProjects\CMSWebAPI\Cms.Data.Repository\obj\Debug\net6.0\Cms.Data.Repository.csproj.CoreCompileInputs.cache
+C:\NETProjects\CMSWebAPI\Cms.Data.Repository\bin\Debug\net6.0\Cms.Data.Repository.deps.json
+C:\NETProjects\CMSWebAPI\Cms.Data.Repository\bin\Debug\net6.0\Cms.Data.Repository.dll
+C:\NETProjects\CMSWebAPI\Cms.Data.Repository\bin\Debug\net6.0\Cms.Data.Repository.pdb
+C:\NETProjects\CMSWebAPI\Cms.Data.Repository\obj\Debug\net6.0\Cms.Data.Repository.dll
+C:\NETProjects\CMSWebAPI\Cms.Data.Repository\obj\Debug\net6.0\refint\Cms.Data.Repository.dll
+C:\NETProjects\CMSWebAPI\Cms.Data.Repository\obj\Debug\net6.0\Cms.Data.Repository.pdb
+C:\NETProjects\CMSWebAPI\Cms.Data.Repository\obj\Debug\net6.0\ref\Cms.Data.Repository.dll
